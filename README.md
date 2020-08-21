@@ -1,6 +1,6 @@
 # 【刷题】保研机试题型分类
 
-这里是我在1月到7月刷的一些有分类的题型的总结。博主的保研之路已经圆满结束，成功拿到了本校的offer。虽然因为疫情原因，博主参加的夏令营基本都取消了机考，但面试的时候还是受益于做过的这些题，因此分享出来，大家也可以参考一下。其中[笔记.pdf](https://github.com/EricLee8/BaoYan-Algorithm-Problems/blob/master/笔记.pdf)是这些题我写的一些题解和易错点，不过太过随意，大家最好在网上搜题解。[刷题笔记.pdf](https://github.com/EricLee8/BaoYan-Algorithm-Problems/blob/master/刷题笔记.pdf)里还有一些题目。[经典算法笔记.pdf](https://github.com/EricLee8/BaoYan-Algorithm-Problems/blob/master/笔记.pdf)记录了一些经典的算法，其代码在[模板代码](https://github.com/EricLee8/BaoYan-Algorithm-Problems/blob/master/模板代码/)里可以找到。[STL笔记.pdf](https://github.com/EricLee8/BaoYan-Algorithm-Problems/blob/master/STL笔记.pdf)记录了一些STL的常用数据结构。
+这里是我在1月到7月刷的一些有分类的题型的总结。博主的保研之路已经圆满结束，成功拿到了本校的offer。虽然因为疫情原因，博主参加的夏令营基本都取消了机考，但面试的时候还是受益于做过的这些题，因此分享出来，大家也可以参考一下。其中[笔记.pdf](https://github.com/EricLee8/BaoYan-Algorithm-Problems/blob/master/笔记.pdf)是这些题我写的一些题解和易错点，不过太过随意，大家最好在网上搜题解。[刷题笔记.pdf](https://github.com/EricLee8/BaoYan-Algorithm-Problems/blob/master/刷题笔记.pdf)里还有一些题目。[经典算法笔记.pdf](https://github.com/EricLee8/BaoYan-Algorithm-Problems/blob/master/经典算法笔记.pdf)记录了一些经典的算法，其代码在[模板代码](https://github.com/EricLee8/BaoYan-Algorithm-Problems/blob/master/模板代码/)里可以找到。[STL笔记.pdf](https://github.com/EricLee8/BaoYan-Algorithm-Problems/blob/master/STL笔记.pdf)记录了一些STL的常用数据结构。
 
 ## 枚举法
 
